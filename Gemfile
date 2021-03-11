@@ -24,12 +24,12 @@ end
 
 gem 'bluecloth'
 gem 'dalli'
-gem 'devise'
+gem 'devise', github: "heartcombo/devise"
 gem 'git_hub_bub'
 gem 'jquery-rails'
 gem 'local_time', '2.1.0'
 gem 'maildown', '~> 3.1'
-gem 'omniauth', '~> 1.9.1'
+gem 'omniauth', '~> 2.0.3'
 gem 'omniauth-github'
 gem 'pg'
 gem 'puma'
